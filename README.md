@@ -24,7 +24,7 @@ Step 2: Thresholding
 To separate particles from the background, I applied thresholding: Image → Adjust → Threshold
 
 Method used: Default
-Lower threshold value: 73
+Lower threshold value: 64
 Upper threshold value: 255
 Display mode: Black & White
 I adjusted the threshold sliders until the particles appeared clearly highlighted while minimizing background noise.
